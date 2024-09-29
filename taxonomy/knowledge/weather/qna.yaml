@@ -64,6 +64,6 @@ seed_examples:
     Twenty-five fatalities were reported.
 document:
   repo: https://github.com/manojjahgirdar/instructlab-trainingfiles
-  commit: xxxxxxx
-  patterns:
+  commit: 61d8695
+  patterns:u
   - HurricaneHelene.md
