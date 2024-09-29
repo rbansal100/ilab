@@ -65,5 +65,5 @@ seed_examples:
 document:
   repo: https://github.com/rbansal100/ilab/
   commit: 61d8695
-  patterns:u
-  - HurricaneHelene.md
+  patterns:
+    - HurricaneHelene.md
