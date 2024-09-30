@@ -64,6 +64,6 @@ seed_examples:
     Twenty-five fatalities were reported.
 document:
   repo: https://github.com/rbansal100/ilab/
-  commit: 61d8695
+  commit: 18bf12c
   patterns:
     - HurricaneHelene.md
